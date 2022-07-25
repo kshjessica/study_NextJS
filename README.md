@@ -1,12 +1,12 @@
 # NestJS 로 배우는 백엔드 프로그래밍
 
-참고 자료: [WikiDocs](https://wikidocs.net/book/7059)
-예시 코드: [book-nestjs-backend](https://github.com/dextto/book-nestjs-backend)
+📕 참고 자료: [WikiDocs](https://wikidocs.net/book/7059)  
+⚙️ 예시 코드: [book-nestjs-backend](https://github.com/dextto/book-nestjs-backend)
 
 ## To Do
-1) section 별 issue 생성해서 정리
-2) [velog](https://velog.io/@kshjessica) 에 내용 정리 & publish
-3) [wiki](https://github.com/kshjessica/study_NextJS/wiki) & [blog](https://blog.naver.com/kshjessica) 에 velog chapter 별로 archive
+1️⃣ section 별 issue 생성해서 정리
+2️⃣ [velog](https://velog.io/@kshjessica) 에 내용 정리 & publish
+3️⃣ [wiki](https://github.com/kshjessica/study_NextJS/wiki) & [blog](https://blog.naver.com/kshjessica) 에 velog chapter 별로 archive
 
 ## Progress
 ### [00장] 들어가기 전에
