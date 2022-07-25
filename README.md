@@ -1,6 +1,7 @@
 # NestJS 로 배우는 백엔드 프로그래밍
 
 참고 자료: [WikiDocs](https://wikidocs.net/book/7059)
+예시 코드: [book-nestjs-backend](https://github.com/dextto/book-nestjs-backend)
 
 ## To Do
 1) section 별 issue 생성해서 정리
