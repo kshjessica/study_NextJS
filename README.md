@@ -12,7 +12,7 @@
 ### [00장] 들어가기 전에
 | Section | Start Date | End Date | Velog Publish |
 |---------|------------|----------|---------------|
-|NA|220725|220725|X|
+|-|220725|220725|-|
 ### [01장] Hello NestJS
 | Section | Start Date | End Date | Velog Publish |
 |---------|------------|----------|---------------|
