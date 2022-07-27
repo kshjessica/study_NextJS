@@ -16,7 +16,7 @@
 ### [01장] Hello NestJS
 | Section | Start Date | End Date | Velog Publish |
 |---------|------------|----------|---------------|
-|1.1 NestJS 소개||||
+|1.1 NestJS 소개|220726|220726|⭕️|
 |1.2 Express 가 좋을까 NestJS 가 좋을까||||
 |1.3 NestJS 설치||||
 |1.4 이 책에서 만드는 애플리케이션||||
