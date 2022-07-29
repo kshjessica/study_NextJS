@@ -13,7 +13,7 @@
 | Section | Start Date | End Date | Velog Publish |
 |---------|------------|----------|---------------|
 |-|220725|220725|-|
-### [01장] Hello NestJS
+### [[01장](https://velog.io/@kshjessica/01%EC%9E%A5-Hello-NestJS)] Hello NestJS
 | Section | Start Date | End Date | Velog Publish |
 |---------|------------|----------|---------------|
 |1.1 NestJS 소개|220726|220726|⭕️|
