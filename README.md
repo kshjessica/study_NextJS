@@ -23,7 +23,7 @@
 |1.3 NestJS 설치|220728|220728|⭕️|
 |1.4 이 책에서 만드는 애플리케이션|220729|220729|⭕️|
 
-### [02장] NestJS 를 배우기 전에
+### [[02장](https://velog.io/@kshjessica/2%EC%9E%A5-NestJS%EB%A5%BC-%EB%B0%B0%EC%9A%B0%EA%B8%B0-%EC%A0%84%EC%97%90)] NestJS 를 배우기 전에
 | Section | Start Date | End Date | Velog Publish |
 |---------|------------|----------|---------------|
 |2.1 웹 프레임워크|220730|220730|⭕️|
