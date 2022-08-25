@@ -33,7 +33,7 @@
 |2.5 Typescript|220804|220804|⭕️|
 |2.6 데코레이터|220805|220805|⭕️|
 
-### [03장] 애플리케이션의 관문 - 인터페이스
+### [[03장](https://velog.io/@kshjessica/03%EC%9E%A5-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98-%EA%B4%80%EB%AC%B8-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)] 애플리케이션의 관문 - 인터페이스
 | Section | Start Date | End Date | Velog Publish |
 |---------|------------|----------|---------------|
 |3.1 컨트롤러(Controller)|220808|220819|⭕️|
