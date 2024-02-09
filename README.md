@@ -5,7 +5,7 @@
 
 ## 📌 To Do
 1️⃣ 코드 변경이 있을 경우, section 별 issue 생성해서 기록  
-2️⃣ [velog](https://velog.io/@kshjessica) 에 내용 정리 후, `README.md` progress update  
+2️⃣ [velog]([https://velog.io/@kshjessica](https://velog.io/@kshjessica/series/NestJS-%EB%B3%B8%EA%B2%A9-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0)) 에 내용 정리 후, `README.md` progress update  
 3️⃣ chaper 별 article publish 후, [blog](https://blog.naver.com/kshjessica) 에 velog article archive  
 4️⃣ `README.md` chapter bracket 에 velog article link 하면서 목차 copy  
 5️⃣ [wiki](https://github.com/kshjessica/study_NextJS/wiki) 에 해당 chapter 목차 반영  
